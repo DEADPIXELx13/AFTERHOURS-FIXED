@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" shape-rendering="crispEdges" aria-label="pixel bunny with knife">
+<rect width="48" height="48" fill="none"/>
+<!-- ears --> <rect x="10" y="2" width="8" height="17" fill="#fff"/><rect x="12" y="5" width="4" height="10" fill="#e99"/><rect x="22" y="1" width="8" height="18" fill="#fff"/><rect x="24" y="4" width="4" height="11" fill="#e99"/>
+<!-- body/head --> <rect x="8" y="17" width="28" height="23" fill="#fff"/><rect x="5" y="22" width="34" height="15" fill="#fff"/><rect x="10" y="39" width="8" height="5" fill="#fff"/><rect x="26" y="39" width="8" height="5" fill="#fff"/>
+<!-- face --> <rect x="13" y="25" width="3" height="3" fill="#111"/><rect x="28" y="25" width="3" height="3" fill="#111"/><rect x="20" y="29" width="4" height="3" fill="#d22"/><rect x="18" y="33" width="8" height="1" fill="#111"/>
+<!-- bow --> <rect x="31" y="18" width="5" height="4" fill="#d22"/><rect x="37" y="16" width="5" height="5" fill="#d22"/>
+<!-- arm and knife --> <rect x="34" y="30" width="7" height="4" fill="#fff"/><rect x="39" y="27" width="4" height="3" fill="#d22"/><rect x="41" y="19" width="3" height="10" fill="#aaa"/><rect x="42" y="15" width="2" height="5" fill="#eee"/><rect x="40" y="27" width="5" height="3" fill="#541"/>
+<!-- red pixels --> <rect x="4" y="42" width="3" height="2" fill="#c00"/><rect x="39" y="40" width="2" height="3" fill="#c00"/>
+</svg>
