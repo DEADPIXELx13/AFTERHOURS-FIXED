@@ -1,0 +1,13 @@
+PRIVATE GUESTBOOK DELETE BUTTONS
+
+1. Upload the src folder from this update to the TOP LEVEL of your existing GitHub repository. Let it replace the old src/worker.js file.
+2. Wait for Cloudflare to deploy the change.
+3. In Cloudflare go to Workers & Pages > afterhours-fixed > Settings > Variables and Secrets.
+4. Choose Add. Set Type to Secret.
+5. Variable name: ADMIN_PASSWORD
+6. Value: make up a long password that only you know. Do not put it in GitHub or on the site.
+7. Click Deploy.
+8. Visit https://afterhours-fixed.afterhoursarchive.workers.dev/admin
+9. Enter your password. You will see saved guestbook entries with a DELETE THIS ENTRY button for each one.
+
+The public guestbook has no delete buttons. The existing pre-written comments in videos.html are part of the website file, so delete those in GitHub by editing public/videos.html.
